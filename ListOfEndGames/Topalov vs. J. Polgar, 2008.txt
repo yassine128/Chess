@@ -1,0 +1,4 @@
+"roi" "white" 1 5
+"roi" "black" 3 4
+"tour" "black" 4 2
+"fou" "white" 7 1
